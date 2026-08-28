@@ -5,7 +5,8 @@ inmutables.
 
 ## Versión vigente
 
-- Identificador: `VIA-WEB-R001`
+- Nombre público: **Versión 4 · Revisión actual**
+- Identificador técnico: `VIA-WEB-R001`
 - Estado: `EN REVISIÓN`
 - Publicación: 28 de agosto de 2026
 - Fuente: `devdaalper/via-sitio-revision@db95db8a`
@@ -16,3 +17,5 @@ inmutables.
 Una revisión enviada a marketing y diseño no se sobrescribe. Cualquier cambio que deba volver a
 revisarse crea el siguiente número consecutivo y una nueva carpeta inmutable.
 
+Los nombres públicos siguen una secuencia simple (`Versión 1`, `Versión 2`, etc.). Los folios
+`VIA-WEB-R###` se conservan únicamente como identificadores técnicos para garantizar la trazabilidad.

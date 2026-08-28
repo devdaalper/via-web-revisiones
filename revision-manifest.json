@@ -1,10 +1,13 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T17:24:00-06:00",
+  "updatedAt": "2026-08-28T17:40:00-06:00",
   "currentReviewId": "VIA-WEB-R001",
+  "currentPublicVersion": 4,
   "reviews": [
     {
       "id": "VIA-WEB-R001",
+      "publicVersion": 4,
+      "publicName": "Versión 4 · Revisión actual",
       "status": "EN_REVISIÓN",
       "publishedAt": "2026-08-28",
       "immutableUrl": "https://devdaalper.github.io/via-web-revisiones/r001/",
@@ -17,19 +20,21 @@
   "archives": [
     {
       "status": "ARCHIVADA",
-      "label": "Snapshot DESIGN.md · A/B/C",
+      "publicVersion": 3,
+      "label": "Versión 3 · Opciones A, B y C",
       "url": "https://devdaalper.github.io/via-design-md-2026-08-23/"
     },
     {
       "status": "ARCHIVADA",
-      "label": "Prototipo de diseño",
+      "publicVersion": 2,
+      "label": "Versión 2 · Primera propuesta visual",
       "url": "https://devdaalper.github.io/via-prototipo-diseno/"
     },
     {
       "status": "ARCHIVADA",
-      "label": "Prototipo inicial",
+      "publicVersion": 1,
+      "label": "Versión 1 · Prototipo inicial",
       "url": "https://devdaalper.github.io/via-prototipo/"
     }
   ]
 }
-
