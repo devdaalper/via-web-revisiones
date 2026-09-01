@@ -1,17 +1,29 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-28T17:40:00-06:00",
-  "currentReviewId": "VIA-WEB-R001",
-  "currentPublicVersion": 4,
+  "updatedAt": "2026-08-31T20:45:00-06:00",
+  "currentReviewId": "VIA-WEB-R002",
+  "currentPublicVersion": 5,
   "reviews": [
+    {
+      "id": "VIA-WEB-R002",
+      "publicVersion": 5,
+      "publicName": "Versión 5 · Revisión actual",
+      "status": "EN_REVISIÓN",
+      "publishedAt": "2026-08-31",
+      "immutableUrl": "https://devdaalper.github.io/via-web-revisiones/r002/",
+      "currentAliasUrl": "https://devdaalper.github.io/via-web-revisiones/",
+      "sourceRepository": "https://github.com/devdaalper/via-sitio-revision",
+      "sourceBranch": "codex/via-r002-client-feedback",
+      "sourceCommit": "f10b218",
+      "supersedes": "VIA-WEB-R001"
+    },
     {
       "id": "VIA-WEB-R001",
       "publicVersion": 4,
-      "publicName": "Versión 4 · Revisión actual",
-      "status": "EN_REVISIÓN",
+      "publicName": "Versión 4 · Revisión anterior",
+      "status": "ARCHIVADA",
       "publishedAt": "2026-08-28",
       "immutableUrl": "https://devdaalper.github.io/via-web-revisiones/r001/",
-      "currentAliasUrl": "https://devdaalper.github.io/via-sitio-revision/",
       "sourceRepository": "https://github.com/devdaalper/via-sitio-revision",
       "sourceCommit": "db95db8a",
       "supersedes": "todas las publicaciones históricas anteriores"

@@ -5,12 +5,13 @@ inmutables.
 
 ## Versión vigente
 
-- Nombre público: **Versión 4 · Revisión actual**
-- Identificador técnico: `VIA-WEB-R001`
+- Nombre público: **Versión 5 · Revisión actual**
+- Identificador técnico: `VIA-WEB-R002`
 - Estado: `EN REVISIÓN`
-- Publicación: 28 de agosto de 2026
-- Fuente: `devdaalper/via-sitio-revision@db95db8a`
-- URL inmutable: <https://devdaalper.github.io/via-web-revisiones/r001/>
+- Publicación: 31 de agosto de 2026
+- Fuente: `devdaalper/via-sitio-revision@f10b218`, rama `codex/via-r002-client-feedback`
+- URL inmutable: <https://devdaalper.github.io/via-web-revisiones/r002/>
+- URL estable para compartir: <https://devdaalper.github.io/via-web-revisiones/>
 
 ## Regla de publicación
 
