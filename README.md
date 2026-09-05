@@ -9,7 +9,8 @@ inmutables.
 - Identificador técnico: `VIA-WEB-R002`
 - Estado: `EN REVISIÓN`
 - Última actualización: 4 de septiembre de 2026
-- Fuente: `devdaalper/via-sitio-revision@811d7d4`, rama `codex/via-r002-final-polish`
+- Fuente: `devdaalper/via-sitio-revision@d4e2239`, rama `codex/via-r002-final-polish`
+- Publicación: `devdaalper/via-web-revisiones@4871f4c`
 - URL inmutable: <https://devdaalper.github.io/via-web-revisiones/r002/>
 - URL estable para compartir: <https://devdaalper.github.io/via-web-revisiones/>
 
