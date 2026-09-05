@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-09-04T21:14:00-06:00",
+  "updatedAt": "2026-09-04T21:42:00-06:00",
   "currentReviewId": "VIA-WEB-R002",
   "currentPublicVersion": 5,
   "reviews": [
@@ -14,7 +14,7 @@
       "currentAliasUrl": "https://devdaalper.github.io/via-web-revisiones/",
       "sourceRepository": "https://github.com/devdaalper/via-sitio-revision",
       "sourceBranch": "codex/via-r002-final-polish",
-      "sourceCommit": "811d7d41a3ef41ffaee814c2a4e7daadf27502a7",
+      "sourceCommit": "d4e2239f5ed385cf6e3f8b16bf1021e1b070e8a6",
       "supersedes": "VIA-WEB-R001"
     },
     {
