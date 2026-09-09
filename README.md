@@ -8,9 +8,9 @@ inmutables.
 - Nombre público: **Versión 5 · Revisión actual**
 - Identificador técnico: `VIA-WEB-R002`
 - Estado: `EN REVISIÓN`
-- Última actualización: 4 de septiembre de 2026
-- Fuente: `devdaalper/via-sitio-revision@d4e2239`, rama `codex/via-r002-final-polish`
-- Publicación: `devdaalper/via-web-revisiones@4871f4c`
+- Última actualización: 9 de septiembre de 2026
+- Fuente: `devdaalper/via-sitio-revision@7712032`, rama `codex/via-r002-final-polish`
+- Publicación: commit vigente en el historial de `devdaalper/via-web-revisiones`, rama `main`.
 - URL inmutable: <https://devdaalper.github.io/via-web-revisiones/r002/>
 - URL estable para compartir: <https://devdaalper.github.io/via-web-revisiones/>
 
@@ -22,3 +22,9 @@ y una nueva carpeta inmutable.
 
 Los nombres públicos siguen una secuencia simple (`Versión 1`, `Versión 2`, etc.). Los folios
 `VIA-WEB-R###` se conservan únicamente como identificadores técnicos para garantizar la trazabilidad.
+
+## Actualización del 9 de septiembre
+
+Curvas finas sobre lienzo compartido, personas integradas, iconos exactos con créditos, jerarquía
+del CTA y correcciones de Safari y navegación sin JavaScript. El formulario sigue inactivo.
+Las hojas de estilo antiguas con nombre hash se conservan para las páginas que aún estén en caché.
